@@ -9,7 +9,6 @@
 
 ### **About Me** 🤹‍♂️
 - 🌟 Masters student from **University of Texas at Arlington**.
-- 💼 Software Engineer with internship experience at Bosch and Visual IT Solutions.
 - 🔍 Obsessed with solving problems through **clean code** and **scalable architectures**.
 - 🎯 Currently focusing on **cloud solutions**, **DevOps pipelines**, and building **full-stack applications**.
 
